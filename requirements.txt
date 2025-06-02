@@ -4,3 +4,4 @@ phik
 seaborn
 plotly
 statsmodels
+nbformat
