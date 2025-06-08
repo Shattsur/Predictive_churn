@@ -7,4 +7,4 @@ statsmodels
 nbformat
 catboost
 jinja2
-plotly
+
